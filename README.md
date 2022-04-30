@@ -1,16 +1,26 @@
-# news_blog
+# News Blog
 
-A new Flutter project.
+- An app to get the latest news.
+- Only Admins can post and delete news articles as they wish.
+- Users can view  and read any news article, but must be logged in to comment on any article that interests them.
 
-## Getting Started
+Home screen
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_1.png?raw=true)
 
-This project is a starting point for a Flutter application.
+Details of the news
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_2.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+Comment section
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_3.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Drawer
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_4.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Profile of logged in user who is an admin
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_5.png?raw=true)
+
+Profile of a user who is not logged in
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_6.png?raw=true)
+
+A user who is not logged in isn't allowed to comment
+![alt text](https://github.com/Joshuailuma/News-blog/blob/main/Screenshot_7.png?raw=true)
